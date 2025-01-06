@@ -1,0 +1,14 @@
+//What is OOP? List OOP concepts
+
+OOP:- OOP is a object oriented programming.
+oop is combination of two word object and oriented.
+object is a real world entity.
+oriented is interested in a particular thing.
+
+list of oops:
+class
+object
+inheritance
+Encapsulation
+Abstraction
+Polymorphism

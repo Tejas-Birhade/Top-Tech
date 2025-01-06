@@ -1,0 +1,15 @@
+What is the difference between OOP and POP?
+
+oop
+object oriented
+program is divide into object
+bottom up approach
+inheritance allowed in oop
+Ex c++,java
+
+POP
+structure oriented
+program is divide into function
+top down approach
+inheritance not allowed
+Ex C language
